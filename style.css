@@ -1,0 +1,8 @@
+.logo img {
+  width: 150px;
+  height: 75px;
+}
+.header {
+  position: fixed;
+  width: 100%;
+}
